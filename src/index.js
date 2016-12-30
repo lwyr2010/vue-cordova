@@ -3,7 +3,8 @@ const pluginsList = [
   'cordova-plugin-camera',
   'cordova-plugin-device',
   'cordova-plugin-geolocation',
-  'cordova-plugin-contacts'
+  'cordova-plugin-contacts',
+  'jpush-phonegap-plugin'
 ]
 
 exports.install = (Vue, options) => {
